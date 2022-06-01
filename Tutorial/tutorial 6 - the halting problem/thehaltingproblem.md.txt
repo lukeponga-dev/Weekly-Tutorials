@@ -1,1 +1,0 @@
-Using your diagram above, in your own words, describe the halting problem:
