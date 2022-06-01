@@ -4,7 +4,8 @@
 >    Arrary = [ 10, 7, 3, 9, 15, 1, 4 ]
 
 ## bubble sort Algorithm: 
-
+> Q1.
+>Sort the following items using bubble sort. Describe the algorithm that you used and write down the array at each step.            [ 10, 7, 3, 9, 15, 1, 4 ] 
 ### PASS 1:
 
 >     compare the first 2 elements [10, 7] and find which node is greater.
